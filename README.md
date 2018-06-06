@@ -1,4 +1,4 @@
-# Detection_of_Emotion
+# Detection of Emotion
 
 1. **利用sklearn自带的olivetti_faces库，手动为数据打上“笑”与“不笑”的标签，生成result.xml训练集文件。使用SVM读取xml，进行训练/预测。**
 
