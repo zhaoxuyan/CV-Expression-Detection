@@ -41,19 +41,19 @@ python test.py -i 0
 
 #### 冷漠脸
 
-<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fs1g64ag2oj31kw0wzqv8.jpg" width="650px">
+<img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fs1g64ag2oj31kw0wzqv8.jpg" width="250px">
 
 #### 笑脸
 
-<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fs1g65wazkj31kw0wzhdw.jpg" width="650px">
+<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fs1g65wazkj31kw0wzhdw.jpg" width="250px">
 
 #### 惊讶脸
 
-<img src="https://ws4.sinaimg.cn/large/006tNc79gy1fs1ghh1peqj31kw0wzu10.jpg" width="650px">
+<img src="https://ws4.sinaimg.cn/large/006tNc79gy1fs1ghh1peqj31kw0wzu10.jpg" width="250px">
 
 #### 厌恶脸
 
-<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fs1g61xl5mj31kw0wzu10.jpg" width="650px">
+<img src="https://ws3.sinaimg.cn/large/006tKfTcgy1fs1g61xl5mj31kw0wzu10.jpg" width="250px">
 
 
 
